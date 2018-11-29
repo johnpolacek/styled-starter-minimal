@@ -1,0 +1,22 @@
+{
+  "name": "styled-starter-minimal",
+  "version": "0.0.1",
+  "description": "Minimal Starter Kit with React, Next.js and Styled System to get projects up and running.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "next build && next export"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "styled-components": "^4.1.2",
+    "styled-system-html": "^2.0.4"
+  }
+}
